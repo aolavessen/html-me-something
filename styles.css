@@ -1,0 +1,56 @@
+/*Grey: #272727*/
+/*Red: #F25F5C*/
+/*Yellow: #FFE066*/
+/*Blue: #247BA0*/
+/*Green: #70C1B3*/
+
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    margin: auto;
+    font-family: Raleway, sans-serif;
+    color: #272727;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .top-nav {
+      margin: 0 1rem;
+      text-align: center;
+      padding-bottom: 5rem;
+  }
+
+  .top-nav_item {
+      float: right;
+      font-size: 1.6rem;
+      line-height: 3.2rem;
+      margin: 0 1rem;
+      color: red;
+  }
+
+  .top-nav_item--brand {
+      float: left;
+      
+  }
+
+  .content {
+      padding: 0 1rem;          
+      margin: auto;      
+      padding-bottom: 10rem;
+  }
+
+  .main-footer {
+      padding: 0 1rem;
+      margin: auto;
+   
+
+  }

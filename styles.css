@@ -42,6 +42,20 @@ html {
       
   }
 
+  h3 {
+      color: paleturquoise;
+  }
+
+  .top-article {
+      padding: 0 1rem;
+      margin: auto;
+  }
+
+  .mid-article {
+      padding: 0 1rem;
+      margin: auto;
+  }
+
   .content {
       padding: 0 1rem;          
       margin: auto;      
